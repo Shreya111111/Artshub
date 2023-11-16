@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+
+# Log files
+*.log
+
+# Local development settings
+local_settings.py
+
+
+# Ignore node_modules
+node_modules/
